@@ -1,0 +1,6 @@
+#ifndef CLASSWORK7_3_LIBRARY_H
+#define CLASSWORK7_3_LIBRARY_H
+
+void hello();
+
+#endif //CLASSWORK7_3_LIBRARY_H
